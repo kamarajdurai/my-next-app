@@ -6,15 +6,15 @@ export default function Product() {
   const [cart, setCart] = useState([]);
 
   const products = [
-    { id: 1, name: "Wireless Headphones", price: 2999, image: "/p1.jpg" },
-    { id: 2, name: "Smart Watch", price: 4999, image: "/p1.jpg" },
-    { id: 3, name: "Bluetooth Speaker", price: 1999, image: "/p1.jpg" },
+    { id: 1, name: "Samsung galaxy A35 5G", price: 27000, image: "/assets/p1.jpg" },
+    { id: 2, name: "Samsung galaxy A14 5G", price: 18000, image: "/assets/p2.jpg" },
+    { id: 3, name: "Samsung galaxy S25 ultra", price: 100000, image: "/assets/p3.jpg" },
     {
       id: 4,
-      name: "Laptop Stand",
-      price: 1499,
+      name: "Samsung galaxy F36 5G ",
+      price: 25000,
       image:
-        "https://images.unsplash.com/photo-1616627562856-1d8e8bfc8b4f?auto=format&fit=crop&w=400&q=60",
+        "/assets/p4.jpg",
     },
   ];
 
