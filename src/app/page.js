@@ -5,7 +5,7 @@ export default function Home() {
     <section className="home-container">
       <div className="home-content">
         <h1>
-          Welcome to <span className="highlight">E-Shop</span>
+          Welcome to <span className="highlight">flipkart🛍️</span>
         </h1>
         <p>Discover modern tech gadgets at unbeatable prices.</p>
         <button className="shop-btn">Explore Products</button>
