@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <nav className="navbar">
-          <h2 className="logo">E-Shop 🛍️</h2>
+          <h2 className="logo">flipkart🛍️</h2>
           <div className="nav-links">
             <Link href="/">Home</Link>
             <Link href="/product">Products</Link>
