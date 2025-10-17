@@ -20,7 +20,7 @@ export default function Contact() {
     <div className="contact-page">
       <h1>Contact Us</h1>
       <p className="contact-subtitle">
-        We'd love to hear from you! Please fill out the form below.
+        We&apos;d love to hear from you! Please fill out the form below.
       </p>
       <form className="contact-form" onSubmit={handleSubmit}>
         <label>
