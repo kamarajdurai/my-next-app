@@ -10,7 +10,7 @@ export default function Home() {
         <p>Discover modern tech gadgets at unbeatable prices.</p>
         <button className="shop-btn">Explore Products</button>
       </div>
-      <img
+      <Image
         src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=60"
         alt="Shopping Banner"
         className="home-banner"
