@@ -11,10 +11,13 @@ export default function Home() {
         <button className="shop-btn">Explore Products</button>
       </div>
       <Image
-        src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=60"
-        alt="Shopping Banner"
-        className="home-banner"
-      />
+  src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=60"
+  alt="Shopping Banner"
+  className="home-banner"
+  width={900}
+  height={600}
+  priority
+/>
     </section>
   );
 }
